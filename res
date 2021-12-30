@@ -1,7 +1,6 @@
 
 Bug Bounty Hunting Tipology
-Aswin Govind
-30 min read
+
 
 
 
@@ -1009,7 +1008,3 @@ Pentesting
 
 
 
-Aswin Govind
-WRITTEN BY
-
-Aswin Govind
